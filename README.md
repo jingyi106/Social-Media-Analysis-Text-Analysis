@@ -7,6 +7,7 @@ The dataset is provided in https://docs.google.com/spreadsheets/d/18cxhrGf5ZgBEj
 The data is natural language text data of consumer posts, comments and reviews on Samsung Galaxy S8 and iPhone 8 and X models. The timeline of these posts precede the release of each of the phones by about a month and then continue on for a few months after the announcement. 
 
 Samsung Galaxy S8 was released March 29, 2017 
+
 iPhone 8 and iPhone X were released Sep 22, 2017 
 
 ## Code
