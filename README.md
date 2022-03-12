@@ -26,7 +26,7 @@ The team is made up of 5: Jingyi Ran, Shuhan Zhang, Ziyou Li, Xiang Li, Yiyun Hu
 4. Analyzed customer sentiment in pre- & post- launch, uptake and adoption of each product
 5. Compared popularity & subjectivity of reviews in twitter and non-twitter platforms
 
-## Package
+## Tools
 VADER and TextBlob for sentiment analysis
 
   
