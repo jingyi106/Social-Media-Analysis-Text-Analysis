@@ -3,6 +3,7 @@ This project aims at analyzing customer reviews of Samsung Galaxy S8 vs. iPhone 
 
 ## Dataset
 The dataset is provided in https://docs.google.com/spreadsheets/d/18cxhrGf5ZgBEjmYpZ6t4Ibi77J_klIZ2/edit?usp=sharing&ouid=110386669343314302933&rtpof=true&sd=true
+
 The data is natural language text data of consumer posts, comments and reviews on Samsung Galaxy S8 and iPhone 8 and X models. The timeline of these posts precede the release of each of the phones by about a month and then continue on for a few months after the announcement. 
 
 Samsung Galaxy S8 was released March 29, 2017 
