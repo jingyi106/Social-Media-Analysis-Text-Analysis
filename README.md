@@ -13,7 +13,9 @@ iPhone 8 and iPhone X were released Sep 22, 2017
 ## Code
 There are 3 .ipynb file:
 Exploratory Data Analysis.ipynb is for EDA
+
 Sentiment Analysis-Attributes.ipynb is for sentiment analysis and figuring out top positive attributes & top negative attributes
+
 Sentiment Analysis-time series.ipynb is for time series analysis of both pre-launch time and after-launch time
 
 ## Contributors
