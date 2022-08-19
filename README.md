@@ -31,6 +31,6 @@ The team is made up of 5: Jingyi Ran, Shuhan Zhang, Ziyou Li, Xiang Li, Yiyun Hu
 ## Tools
 VADER and TextBlob for sentiment analysis
 
-  
+Since it's an academic course project, code cannot be uploaded.   
 
 
